@@ -33,6 +33,11 @@ Site institucional responsivo para uma marca de moda feminina, com identidade vi
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-leobeast019-181717?style=flat-square&logo=github)](https://github.com/leobeast019)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Lopes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lopes-de-souza-a18448211/)
+
+### Empresa
+
+[![Instagram Aurum Dev](https://img.shields.io/badge/Instagram-Aurum%20Dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aurumdev019/)
 
 ---
 
