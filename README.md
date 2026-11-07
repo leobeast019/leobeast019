@@ -22,13 +22,19 @@ Construindo experiências para a web e aprendendo a cada projeto.
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades.
 - 📍 Brasil
 
-## Projeto em destaque
+## Projetos em destaque
 
-### Mimo Jeans
+### [Mimo Jeans](https://github.com/leobeast019/MIMO-JEANS)
 
-Site institucional responsivo para uma marca de moda feminina, com identidade visual própria, animações e acesso rápido ao WhatsApp.
+Site institucional responsivo para uma marca de moda feminina, com identidade visual própria, animações e acesso rápido ao WhatsApp. Repositório privado.
 
-> O repositório do projeto é privado no momento; o código só está disponível para pessoas autorizadas.
+### [Mila Make](https://github.com/leobeast019/pfv-mila-make)
+
+Projeto de sistema de vendas para Windows, desenvolvido com JavaScript e Electron.
+
+### [Dragon Legend](https://github.com/leobeast019/dragon-legend-s-dojo)
+
+Projeto de site para um atleta de jogos de luta, com foco em Street Fighter 6 e identidade visual branca e dourada. Repositório privado.
 
 ## Contato
 
